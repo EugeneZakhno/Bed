@@ -1,2 +1,2 @@
 # Bed
-https://eugenezakhno.github.io/bed
+(https://eugenezakhno.github.io/Bed/)https://eugenezakhno.github.io/Bed/
